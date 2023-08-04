@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1691160228 source:c:\users\adrian\documents\codeblocks\encrypted_test\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<fstream>
+	<sstream>
+	<handleapi.h>
+	<aes.hpp>
+	<key.h>
+	<dirent.h>
+
+1640164569 source:c:\users\adrian\documents\codeblocks\encrypted_test\aes.c
+	<string.h>
+	"aes.h"
+
+1691155831 c:\users\adrian\documents\codeblocks\encrypted_test\aes.h
+	<stdint.h>
+	<stddef.h>
+
+1691143780 c:\users\adrian\documents\codeblocks\encrypted_test\\aes.h
+	<stdint.h>
+	<stddef.h>
+
+1691155831 source:c:\users\adrian\documents\codeblocks\encrypted_test\aes.h
+	<stdint.h>
+	<stddef.h>
+
+1640164569 source:c:\users\adrian\documents\codeblocks\encrypted_test\aes.hpp
+	"aes.h"
+
+1640164569 c:\users\adrian\documents\codeblocks\encrypted_test\aes.hpp
+	"aes.h"
+
+1691158847 source:c:\users\adrian\documents\codeblocks\encrypted_test\key.h
+	<iostream>
+
+1691158847 c:\users\adrian\documents\codeblocks\encrypted_test\key.h
+	<iostream>
+
